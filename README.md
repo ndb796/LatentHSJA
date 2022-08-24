@@ -23,7 +23,8 @@ In this paper, we present a novel method for generating unrestricted adversarial
 
 ### Source Codes
 
-> The full source code is coming soon.
+* [HSJA](./attacks/HSJA_for_Facial_Identity_Recognition_Model.ipynb)
+* [LatentHSJA (Ours)](./attacks/LatentHSJA_for_Facial_Identity_Recognition_Model.ipynb)
 
 ### Datasets
 
