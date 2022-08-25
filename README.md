@@ -1,5 +1,7 @@
 ## Latent HSJA
 
+[![arXiv](https://img.shields.io/badge/arXiv-2208.11613-b31b1b.svg)](https://arxiv.org/abs/2208.11613)
+
 ### Unrestricted Black-box Adversarial Attack Using GAN with Limited Queries
 
 * This repository provides official PyTorch implementations for <b>Latent-HSJA</b>.
@@ -108,5 +110,12 @@ In this paper, we present a novel method for generating unrestricted adversarial
 If this work can be useful for your research, please cite our paper:
 
 <pre>
-Coming soon.
+@misc{na2022unrestricted,
+      title={Unrestricted Black-box Adversarial Attack Using GAN with Limited Queries}, 
+      author={Dongbin Na and Sangwoo Ji and Jong Kim},
+      year={2022},
+      eprint={2208.11613},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 </pre>
