@@ -105,6 +105,10 @@ In this paper, we present a novel method for generating unrestricted adversarial
 |Identity Recognition|0.6465|0.1504|70.78%|67.00%|([code](./inversion_methods/pSp_identity_recognition.ipynb) \| [dataset](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/EQIF7ZqRxDJCjTwWiO1xPe4BqpenC93AEpTnRpSOlrPl5g))|
 |Gender Recognition|0.6355|0.1625|98.30%|96.80%|([code](./inversion_methods/pSp_gender_recognition.ipynb) \| [dataset](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/EXjDv_BYbjdIhGvNeM1kYB4BNtpLWYbuCwaQ-JB-ERt8jg))|
 
+### Training the Original Classification Models
+
+* [CelebA HQ Face Identity and Attributes Recognition using PyTorch](https://github.com/ndb796/CelebA-HQ-Face-Identity-and-Attributes-Recognition-PyTorch)
+
 ### Citation
 
 If this work can be useful for your research, please cite our paper:
