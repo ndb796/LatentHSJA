@@ -110,12 +110,12 @@ In this paper, we present a novel method for generating unrestricted adversarial
 If this work can be useful for your research, please cite our paper:
 
 <pre>
-@misc{na2022unrestricted,
-      title={Unrestricted Black-box Adversarial Attack Using GAN with Limited Queries}, 
-      author={Dongbin Na and Sangwoo Ji and Jong Kim},
-      year={2022},
-      eprint={2208.11613},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{na2022unrestricted,
+  title={Unrestricted Black-Box Adversarial Attack Using GAN with Limited Queries},
+  author={Na, Dongbin and Ji, Sangwoo and Kim, Jong},
+  booktitle={European Conference on Computer Vision},
+  pages={467--482},
+  year={2022},
+  organization={Springer}
 }
 </pre>
